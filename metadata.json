@@ -1,0 +1,7 @@
+{
+  "name": "Beauty Shop",
+  "description": "Discover premium natural beauty, clean cosmetics, and skincare essentials crafted for glowing skin and timeless confidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
